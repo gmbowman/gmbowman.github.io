@@ -1,6 +1,6 @@
 #previewFull {
   background-color: #666666 !important;
-  width: 482px !important;
+  width: 1312px !important;
   color: inherit;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 #stage2 {
-  width: 484px !important;
+  width: 1312px !important;
 }
 
 .itemNumber {
@@ -81,7 +81,7 @@ body {
 }
 
 #wrapper_large {
-  width: 484px !important;
+  width: 1312px !important;
 }
 
 .emptyThumbnail {
@@ -90,7 +90,7 @@ body {
 }
 
 #previewImage {
-  maxSize: 450.00 !important;
+  maxSize: 1280.00 !important;
 }
 
 .paginationLinks, .pagination, #liveUpdatePagination {
