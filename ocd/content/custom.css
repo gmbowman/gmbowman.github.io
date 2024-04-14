@@ -1,6 +1,6 @@
 #previewFull {
   background-color: #666666 !important;
-  width: 1312px !important;
+  width: 832px !important;
   color: inherit;
 }
 
@@ -47,12 +47,12 @@ body {
 }
 
 #stage2 {
-  width: 1312px !important;
+  width: 832px !important;
 }
 
 .itemNumber {
   color: #9C9C9C !important;
-  display: inherit !important;
+  display: none !important;
   background-color: inherit;
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 #wrapper_large {
-  width: 1312px !important;
+  width: 832px !important;
 }
 
 .emptyThumbnail {
@@ -90,7 +90,7 @@ body {
 }
 
 #previewImage {
-  maxSize: 1280.00 !important;
+  maxSize: 800.00 !important;
 }
 
 .paginationLinks, .pagination, #liveUpdatePagination {
